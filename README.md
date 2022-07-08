@@ -1,2 +1,2 @@
-# react-quiz--app
-This a quiz app built with reactjs
+# javascript-quiz--app
+This is a quiz app built with javascript
